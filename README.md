@@ -209,8 +209,8 @@ http://localhost:5173
 
 AI Data Analyst | Business Intelligence | Python | SQL | Power BI | AI Applications
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: www.linkedin.com/in/erna-susilowati
+- GitHub: [https://github.com/ESusilowati-Ab]
+- LinkedIn: [https://www.linkedin.com/in/erna-susilowati/]
 
 ---
 
